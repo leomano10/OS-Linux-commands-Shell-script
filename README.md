@@ -1,5 +1,5 @@
-## Name: SANTHOSH KUMAR A  
-## Ref no: 212224230250
+## Name: MANORAJAPRIYAN.L.E
+## Ref no: 212225040227
 
 ## OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
