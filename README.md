@@ -18,7 +18,6 @@ To practice Linux commands and Shell Scripting.
 
 ```bash
 cat > file1 << 'EOF'
-chanchal singhvi
 Messi
 Mano
 Dhoni
